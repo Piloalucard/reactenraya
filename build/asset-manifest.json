@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce75039f.css",
+    "main.js": "/static/js/main.1a29ed2b.js",
+    "static/media/AnnieUseYourTelescope-Regular.ttf": "/static/media/AnnieUseYourTelescope-Regular.03314b9de13cfb638a49.ttf",
+    "index.html": "/index.html",
+    "main.ce75039f.css.map": "/static/css/main.ce75039f.css.map",
+    "main.1a29ed2b.js.map": "/static/js/main.1a29ed2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce75039f.css",
+    "static/js/main.1a29ed2b.js"
+  ]
+}
